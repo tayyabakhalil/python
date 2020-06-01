@@ -1,2 +1,2 @@
-print ("Hello world")
-print ("and now its live on GitHub")
+print("hello world")
+print("and this is live on github")
